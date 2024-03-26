@@ -12,6 +12,13 @@
 
 [Lab-06](https://github.com/kandukurivenu/AIML_BATCH_10/blob/main/Lab06_AIML.ipynb)
 
+[Lab-07](https://github.com/kandukurivenu/AIML_BATCH_10/blob/main/LAB07_AIML.ipynb)
+
+[Lab-08]()
+
+
+
+
 
 
 
