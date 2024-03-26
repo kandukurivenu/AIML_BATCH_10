@@ -8,7 +8,7 @@
 
 [Lab-04](https://github.com/kandukurivenu/AIML_BATCH_10/blob/main/LAB04_AIML.ipynb)
 
-[Lab-04](https://github.com/kandukurivenu/AIML_BATCH_10/blob/main/LAB05_AIML.ipynb)
+[Lab-05](https://github.com/kandukurivenu/AIML_BATCH_10/blob/main/LAB05_AIML.ipynb)
 
 
 
