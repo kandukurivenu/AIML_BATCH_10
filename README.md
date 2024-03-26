@@ -10,5 +10,9 @@
 
 [Lab-05](https://github.com/kandukurivenu/AIML_BATCH_10/blob/main/LAB05_AIML.ipynb)
 
+[Lab-06](https://github.com/kandukurivenu/AIML_BATCH_10/blob/main/Lab06_AIML.ipynb)
+
+
+
 
 
